@@ -20,5 +20,5 @@ Brief description of the repository goes here. Explain the purpose and functiona
 - Apache POI
 - JavaFX SDK
 
-## 👥 Authors
+## 👥 Contributors
 - A. Jerez – [@anfejear](https://github.com/anfejear)
